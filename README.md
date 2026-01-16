@@ -1,2 +1,2 @@
-# AutomaedIDV-Test
+# AutomatedIDV-Test
 Automated IDV testing
